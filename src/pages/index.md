@@ -19,13 +19,34 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/pp.jpg
+      text: >+
+        Evaluación Externa como Herramienta de Aprendizaje
+
+        Está dirigido a conocer de manera objetiva los componentes y
+        competencias como lo sugieren los lineamientos del Ministerio de
+        Educación Colombiano y el desempeño del grupo de estudiantes de la
+        institución.  Permite realizar retroalimentación, planes de mejoramiento
+        y diagnósticos asertivos en pro de fortalecer los procesos interno y el
+        cumplimiento de metas, así como escalar en el ISCE.
+
+
+        Se trabajan las áreas de Lenguaje, Ciencias, Inglés, Ciencias Sociales y
+        Matemáticas, así como los componentes de Competencias Ciudadanas y
+        Ciencia, Tecnología y Sociedad (CTS) en los grados de primaria. En la
+        media se incorporan los componentes avanzados en Química y Física.
+
+        Las evaluaciones se realizan de manera periódica en las fechas acordadas
+        con la institución educativa o se enlazan con los periodos del
+        calendario académico institucional.  
+
+
+        Resultados: Los resultados se presentan de manera individual a cada
+        estudiante. Así mismo se elabora un informe detallado con base en los
+        componentes y competencias evaluadas, este informe se expone a manera de
+        socialización directa con el grupo   de docentes de la Institución  para
+        realizar  retroalimentación o planes demejora necesarios en cada fase.
+
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
