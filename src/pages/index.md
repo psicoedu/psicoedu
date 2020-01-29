@@ -2,12 +2,17 @@
 templateKey: index-page
 title: PSICOEDU
 image: /img/Imagen.png
-heading: '-'
+heading: .
 subheading: Centro de Investigación y Desarrollo para la Educación y Psicopedagogía
 mainpitch:
-  title: Nosotros
-  description: .
-description: .
+  title: .
+  description: Nosotros
+description: >-
+  PSICOEDU es una organización en el marco de la investigación y el desarrollo
+  que apoya los procesos académicos, pedagógicos, de inclusión y gerenciales en
+  las instituciones educativas de Colombia, con el objetivo de mejorar su
+  calidad y facilitar herramientas que propendan a lograr una educación
+  integral, eficiente y un sistema de mejora continuo.
 intro:
   blurbs: []
   heading: What we offer
