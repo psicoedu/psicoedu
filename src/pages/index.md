@@ -47,12 +47,24 @@ intro:
         socialización directa con el grupo   de docentes de la Institución  para
         realizar  retroalimentación o planes demejora necesarios en cada fase.
 
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/2.png
+      text: >+
+        Evaluación Como Proceso de  Mejora y Aprendizaje - Modelo Basado en
+        Evidencias
+
+
+        Objetivo: Gestionar la evaluación por competencias como proceso
+        inherente al plan académico institucional, contribuyendo a la autonomía
+        en los procesos de diseño y ejecución en planes de diagnóstico y
+        programas de mejoramiento. 
+
+        Diseñar evaluaciones como herramientas de aprendizaje a los
+        estudiantes. 
+
+        Evaluación externa de componentes y Competencias por asignaturas a
+        estudiantes. (Matemáticas, Competencias Ciudadanas, Sociales, Ciencias
+        (Biología, Química, Física), Lectura Crítica e Inglés).
+
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
