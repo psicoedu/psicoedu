@@ -1,33 +1,50 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: >-
+  La neuroeducación, una disciplina que ayuda a mejorar los procesos de
+  enseñanza – aprendizaje
+date: 2020-01-29T15:04:10.000Z
+description: >-
+  En la actualidad, en aras de fortalecer los procesos de enseñanza-aprendizaje
+  aparece la Neuroeducación, como una disciplina que interactúa con la ciencia,
+  la educación y la psicología brindado así conocimientos y métodos que
+  faciliten al docente el enseñar y al estudiante el aprender.
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/NiñosAtlánticoEstudiantes-1132x670-1-696x412.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+***Por: Francisco Peñaranda Ibarra***
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Solo quien ama la educación construye conocimiento y lleva su proceso de enseñanza al aprendizaje significativo, formando así personas integrales para un mundo competitivo, estudiantes que apliquen el Saber, el Saber Hacer y el mas importantes, el que nos humaniza el Saber Ser, estudiantes que no solo analicen y realicen críticas y/o reflexiones de las problemáticas de nuestra sociedad, si no que brinden posibles soluciones. Pero para poder lograr este proceso de enseñanza-aprendizaje no se necesita solo manejar conocimiento del área, se necesita incorporar a la práctica educativa la pedagogía y la didáctica y por lo que los docentes deben de mantenerse actualizados con lo referente a ello.
 
-## What the updates mean to you
+En la actualidad, en aras de fortalecer los procesos de enseñanza-aprendizaje aparece la Neuroeducación, como una disciplina que interactúa con la ciencia, la educación y la psicología brindado así conocimientos y métodos que faciliten al docente el enseñar y al estudiante el aprender.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+El cerebro se divide en dos hemisferios y cada uno se distinguen por las funciones que cumplen en el aprendizaje de las emociones, razonamiento, lenguaje, arte, música, etc., pero aun así manejan una interconexión entre sus neuronas para el desarrollo del aprendizaje, por ello la importancia de conocer su funcionamiento en los procesos de enseñanza-aprendizaje.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+La Neuroeducación además de que permite conocer cómo funciona el cerebro mientras se construye el conocimiento, brinda a los docentes una noción de cómo pueden desarrollar las practicas pedagógicas en un aula donde se cuenta con estudiantes con diferentes estilos de aprendizaje, de igual forma destruye neuromitos que han encasillado a los Docentes y en ocasiones a estudiantes en creencias erróneas, dentro de estos podemos encontrar los estilos de aprendizaje, si bien es cierto existen estudiantes que aprenden de forma visual, auditiva y kinestésica, se cae en el error de implementar estrategias personalizadas para cada caso, cuando el proceso eficiente de enseñanza-aprendizaje es la aplicación de didácticas visuales, auditivas y kinestésicas de manera conjunta, puesto que el cerebro durante el aprendizaje trabaja de manera holística y en interacción con las neuronas, permitiendo así un aprendizaje significativo, igualmente es más llamativo para los estudiantes aprender estimulado por didácticas enfocadas en los tres estilos de aprendizaje.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+En ocasiones en la práctica educativa nos encontramos con docentes que encasillan a los estudiantes como poco inteligentes y a estudiantes encasillado en que no pueden aprender, lo cual es totalmente erróneo creerlo, pues gracias al funcionamiento del cerebro y su plasticidad que permite que el aprendizaje sea durante toda su vida, los estudiantes pueden construir el conocimiento y por lo tanto, no se puede afirmar en un 100% que la inteligencia es heredada genéticamente o que la estimulación a temprana edad es la única forma para que un persona acceda fácilmente al mundo del saber. Conocer esto permite que el docente se preocupe más por sacar adelante a esos estudiantes que pocas intervienen en el desarrollo de la clase.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+La práctica educativa debe ser acompañada de herramientas motivacionales partiendo de centro de intereses y estrategias lúdicas, pero teniendo como referente el funcionamiento del cerebro en los procesos de enseñanza-aprendizaje, para así aplicar didácticas acordes a lo que se quiera enseñar.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Agradezco al profesor Reinaldo Mora Mora, por brindarme la oportunidad y el espacio para motivar a lo docentes a buscar estrategias que les permitan formar a las futuras generaciones de jóvenes pensante que el realice el cambio de sociedad que necesitamos.
+
+Solo quien ama la educación construye conocimiento y lleva su proceso de enseñanza al aprendizaje significativo, formando así personas integrales para un mundo competitivo, estudiantes que apliquen el Saber, el Saber Hacer y el mas importantes, el que nos humaniza el Saber Ser, estudiantes que no solo analicen y realicen críticas y/o reflexiones de las problemáticas de nuestra sociedad, si no que brinden posibles soluciones. Pero para poder lograr este proceso de enseñanza-aprendizaje no se necesita solo manejar conocimiento del área, se necesita incorporar a la práctica educativa la pedagogía y la didáctica y por lo que los docentes deben de mantenerse actualizados con lo referente a ello.
+
+En la actualidad, en aras de fortalecer los procesos de enseñanza-aprendizaje aparece la Neuroeducación, como una disciplina que interactúa con la ciencia, la educación y la psicología brindado así conocimientos y métodos que faciliten al docente el enseñar y al estudiante el aprender.
+
+El cerebro se divide en dos hemisferios y cada uno se distinguen por las funciones que cumplen en el aprendizaje de las emociones, razonamiento, lenguaje, arte, música, etc., pero aun así manejan una interconexión entre sus neuronas para el desarrollo del aprendizaje, por ello la importancia de conocer su funcionamiento en los procesos de enseñanza-aprendizaje.
+
+La Neuroeducación además de que permite conocer cómo funciona el cerebro mientras se construye el conocimiento, brinda a los docentes una noción de cómo pueden desarrollar las practicas pedagógicas en un aula donde se cuenta con estudiantes con diferentes estilos de aprendizaje, de igual forma destruye neuromitos que han encasillado a los Docentes y en ocasiones a estudiantes en creencias erróneas, dentro de estos podemos encontrar los estilos de aprendizaje, si bien es cierto existen estudiantes que aprenden de forma visual, auditiva y kinestésica, se cae en el error de implementar estrategias personalizadas para cada caso, cuando el proceso eficiente de enseñanza-aprendizaje es la aplicación de didácticas visuales, auditivas y kinestésicas de manera conjunta, puesto que el cerebro durante el aprendizaje trabaja de manera holística y en interacción con las neuronas, permitiendo así un aprendizaje significativo, igualmente es más llamativo para los estudiantes aprender estimulado por didácticas enfocadas en los tres estilos de aprendizaje.
+
+En ocasiones en la práctica educativa nos encontramos con docentes que encasillan a los estudiantes como poco inteligentes y a estudiantes encasillado en que no pueden aprender, lo cual es totalmente erróneo creerlo, pues gracias al funcionamiento del cerebro y su plasticidad que permite que el aprendizaje sea durante toda su vida, los estudiantes pueden construir el conocimiento y por lo tanto, no se puede afirmar en un 100% que la inteligencia es heredada genéticamente o que la estimulación a temprana edad es la única forma para que un persona acceda fácilmente al mundo del saber. Conocer esto permite que el docente se preocupe más por sacar adelante a esos estudiantes que pocas intervienen en el desarrollo de la clase.
+
+La práctica educativa debe ser acompañada de herramientas motivacionales partiendo de centro de intereses y estrategias lúdicas, pero teniendo como referente el funcionamiento del cerebro en los procesos de enseñanza-aprendizaje, para así aplicar didácticas acordes a lo que se quiera enseñar.
+
+Agradezco al profesor Reinaldo Mora Mora, por brindarme la oportunidad y el espacio para motivar a lo docentes a buscar estrategias que les permitan formar a las futuras generaciones de jóvenes pensante que el realice el cambio de sociedad que necesitamos.
+
+\#DIARIOLALIBERTAD
