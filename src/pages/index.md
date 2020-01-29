@@ -1,16 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: PSICOEDU
+image: /img/Imagen.png
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Centro de Investigación y Desarrollo para la Educación y Psicopedagogía
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Nosotros
+  description: >-
+    Somos una organización en el marco de la investigación y el desarrollo que
+    apoyamos los procesos académicos, pedagógicos, de inclusión y gerenciales en
+    las instituciones educativas de Colombia, con el objetivo de mejorar su
+    calidad y facilitar herramientas que propendan a lograr una educación
+    integral, eficiente y un sistema de mejora continuo.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +69,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
