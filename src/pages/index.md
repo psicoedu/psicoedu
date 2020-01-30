@@ -1,7 +1,8 @@
 ---
 templateKey: index-page
 title: PSICOEDU
-image: /img/Imagen.png
+image: >-
+  /img/charts-graphs-with-magnifying-glass-pencil-calculator-clock-reflection-light-flare-concept-image-data-gathering-statistical-working_2379-299.jpg
 heading: .             .
 subheading: .
 mainpitch:
