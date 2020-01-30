@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: PSICOEDU
+title: .
 image: /img/Imagen.png
 heading: .
-subheading: Centro de Investigación y Desarrollo para la Educación y Psicopedagogía
+subheading: .
 mainpitch:
   title: .
   description: Nosotros
