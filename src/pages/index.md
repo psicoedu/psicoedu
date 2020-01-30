@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: .
+title: PSICOEDU
 image: /img/Imagen.png
-heading: .
+heading: .             .
 subheading: .
 mainpitch:
   title: .
