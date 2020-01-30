@@ -15,7 +15,7 @@ description: >-
   integral, eficiente y un sistema de mejora continuo.
 intro:
   blurbs: []
-  heading: What we offer
+  heading: '-'
   description: >
     Somos una organización en el marco de la investigación y el desarrollo que
     apoyamos los procesos académicos, pedagógicos, de inclusión y gerenciales en
@@ -23,20 +23,17 @@ intro:
     calidad y facilitar herramientas que propendan a lograr una educación
     integral, eficiente y un sistema de mejora continuo.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: .
+  description: |
+    .
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: .
+    image: /img/ninos-salon-clase-levantando-manos_23-2147659015.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: .
+    image: /img/libro-biblioteca-libro-texto-abierto_1150-5924.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: .
+    image: /img/simbolos-salen-bombilla-encima-libro_1232-908.jpg
 ---
 
