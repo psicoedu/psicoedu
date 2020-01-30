@@ -2,12 +2,11 @@
 templateKey: product-page
 title: Portafolio de Servicios
 image: /img/eval.jpg
-heading: Great coffee with a conscience
+heading: Nuestros Servicios
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Tenemos tres líneas de servicio profesional:  Evaluación Externa, 
+  Capacitación Docentes y Equipo Directivo,  Cursos Preuniversitarios y
+  Preicfes.
 intro:
   blurbs:
     - image: /img/eval.jpg
@@ -41,20 +40,12 @@ intro:
         herramientas y competencias necesarias para que los estudiantes obtengan
         resultados satisfactorios que les permitan acceder a mejores
         oportunidades de ingresar a la educación superior.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: .
+  description: |
+    .
 main:
-  heading: Nuestros Servicios
-  description: >
-    Tenemos tres líneas de servicio profesional:
-
-
-    Evaluación Externa,  Capacitación Docentes y Equipo Directivo,  Cursos
-    Preuniversitarios y Preicfes.
+  heading: .
+  description: .
   image1:
     alt: .
     image: /img/libro-biblioteca-libro-texto-abierto_1150-5924.jpg
@@ -62,7 +53,7 @@ main:
     alt: .
     image: /img/Imagen.png
   image3:
-    alt: Coffee beans
+    alt: .
     image: /img/Bus Sexto.jpg
 testimonials: []
 full_image: >-
