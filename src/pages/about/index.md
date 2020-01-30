@@ -1,19 +1,43 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: TALLERES DE FORMACIÓN Y CAPACITACIÓN EQUIPO DIRECTIVO Y DOCENTE
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+<!--StartFragment-->
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+**\-**
+
+
+
+**Evaluación Como Proceso deMejora y Aprendizaje - Modelo Basado en Evidencias**
+
+
+
+*Objetivo*: Gestionar la evaluación por competencias como proceso inherente al plan académico institucional, contribuyendo a la autonomía en los procesos de diseño y ejecución en planes de diagnóstico y programas de mejoramiento.
+
+Diseñar evaluaciones como herramientas de aprendizaje a los estudiantes.
+
+Evaluación externa de componentes y Competencias por asignaturas a estudiantes. (Matemáticas, Competencias Ciudadanas, Sociales, Ciencias (Biología, Química, Física), Lectura Crítica e Inglés).
+
+
+
+.
+
+**Estilos de Aprendizajes: Maneras de Enseñar Efectivas.**
+
+*Objetivo*: Análisis de las estrategias y formas de enseñanza y aprendizaje efectivas, soportado en la psicología educativa y en los avances realizados por las neurociencias en el marco del cerebro y el aprendizaje. Para garantizar un buen proceso de formación es necesario tomar en consideración la forma en cómo se aprende el conocimiento, por lo tanto se realiza una explicación detalla de los distintos tipos de aprendizaje de los estudiantes.
+
+
+
+.
+
+**Interpretación y Uso de Resultados de las Pruebas Saber.**
+
+*Objetivo:*Conocer los nuevos enfoques de evaluación que conlleven a la validez, confiabilidad y objetividad, así como la metodología sugerida por el MEN. Esto permite al docente y equipo directivo académico interpretar con mayor rigurosidad los resultados de las evaluaciones externas realizadas por el ICFES y demás agentes externos. Así mismo el maestro adquiere competencias para diseñar procesos de mejoramientos, enfocados en optimizar la calidad educativa, basados en el análisis de los resultados de las pruebas realizadas por el MEN a través del ICFES.
+
+
+
+<!--EndFragment-->
