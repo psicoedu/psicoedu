@@ -12,7 +12,7 @@ intro:
   blurbs:
     - image: /img/eval.jpg
       text: >-
-        EVALUACIÓN EXTERNA
+        EVALUACIÓN EXTERNA. 
 
 
         Esta línea de servicios está dirigido a conocer de manera objetiva los
@@ -24,7 +24,7 @@ intro:
         ISCE.
     - image: /img/cap.png
       text: >-
-        CAPACITACIÓN EQUIPO DIRECTIVO Y DOCENTE
+        CAPACITACIÓN EQUIPO DIRECTIVO Y DOCENTE.  
 
 
         Talleres de formación y Capacitación enfocado a temáticas que propenden
@@ -48,12 +48,13 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Nuestros Servicios
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Tenemos tres líneas de servicio profesional:
+
+
+    Evaluación Externa,  Capacitación Docentes y Equipo Directivo,  Cursos
+    Preuniversitarios y Preicfes.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
